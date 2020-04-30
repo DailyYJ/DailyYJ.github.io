@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "YJ"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "짬날 때 마다 기록하기"
+  bio              : "*기록하기*"
   location         : "Korea"
   email            :
   links:
