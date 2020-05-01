@@ -3,17 +3,11 @@ main:
   - title: "About"
     url: "/about/"
   - title: "Category"
-	url: "/Category/"
+	url: "/_posts/"
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 
-docs:
-  - title: "Category"
-	children:
-		- title: "Java"
-    	  url: "/_posts/java/"
-		- title: "Code"
-    	  url: "/_posts/code/"
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
