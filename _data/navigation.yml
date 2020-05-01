@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: "/about/"
   - title: "Category"
-	childern:
+	children:
 		- title: "Java"
     	  url: "/_posts/java/"
 		- title: "Code"
