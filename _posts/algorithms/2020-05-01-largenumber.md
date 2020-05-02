@@ -1,7 +1,8 @@
 ---
 title: "프로그래머스 가장 큰 수"
 date: 2020-05-01 
-categories: algorithms
+categories: -Algorithms
+			-Programmers
 tags: programmers
 ---
 <pre>
