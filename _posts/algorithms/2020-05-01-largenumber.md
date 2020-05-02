@@ -1,12 +1,11 @@
 ---
 title: "프로그래머스 가장 큰 수"
 date: 2020-05-01 
-categories: Algorithm Programmers
+categories: Algorithm
 tags: programmers
 ---
 <pre>
 <code>
-'''java
 import java.util.*;
 class Solution {
     public String solution(int[] numbers) {
@@ -40,6 +39,6 @@ class Solution {
         return sb.toString();
     }
 }
-'''
+
 </code>
 </pre>
