@@ -6,6 +6,7 @@ tags: programmers
 ---
 <pre>
 <code>
+
 import java.util.*;
 class Solution {
     public String solution(int[] numbers) {
@@ -14,8 +15,6 @@ class Solution {
         for(int i = 0; i < numbers.length; i++){
             st[i] = Integer.toString(numbers[i]);
         }
-        
-        
         Arrays.sort(st, new Comparator<String>(){
            @Override
             public int compare(String a, String b){
@@ -28,17 +27,14 @@ class Solution {
                 } 
             }
         });
-        
         StringBuilder sb = new StringBuilder();
-        
         for(String i: st){
             sb.append(i);
         }
-        
-        
         return sb.toString();
     }
 }
 
 </code>
 </pre>
+
