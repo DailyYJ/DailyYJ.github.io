@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Algorithms"
-    url: /_pages/algorithms
+    url: /_pages/algorithms/
   - title: "Issues"
-    url: /_pages/issues
+    url: /_pages/issues/
   - title: "Etc"
-    url: /_pages/etc
+    url: /_pages/etc/
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 
