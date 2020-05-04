@@ -7,6 +7,8 @@ tags: Hash
 
 ## Hash Iterator
 
+> <b>첫번째 방법</b>
+
 ```java
 Iterator keys = map.keySet().iterator();
 	while(keys.hasNext()){
@@ -15,6 +17,7 @@ Iterator keys = map.keySet().iterator();
 	}
 ```
 
+> <b>두번째 방법</b>
 ```java
 for(String key : map.keySet()){
 		System.out.println(key, map.get(key);
